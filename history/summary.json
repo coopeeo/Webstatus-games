@@ -22,19 +22,19 @@
     "url": "https://fortnite.com",
     "icon": "https://favicons.githubusercontent.com/fortnite.com",
     "slug": "fortnite",
-    "status": "degraded",
-    "uptime": "97.09%",
-    "uptimeDay": "97.09%",
-    "uptimeWeek": "97.09%",
-    "uptimeMonth": "97.09%",
-    "uptimeYear": "97.09%",
-    "time": 825,
-    "timeDay": 825,
-    "timeWeek": 825,
-    "timeMonth": 825,
-    "timeYear": 825,
+    "status": "up",
+    "uptime": "95.79%",
+    "uptimeDay": "95.79%",
+    "uptimeWeek": "95.79%",
+    "uptimeMonth": "95.79%",
+    "uptimeYear": "95.79%",
+    "time": 805,
+    "timeDay": 805,
+    "timeWeek": 805,
+    "timeMonth": 805,
+    "timeYear": 805,
     "dailyMinutesDown": {
-      "2022-03-20": 18
+      "2022-03-20": 27
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/www.minecraft.net",
     "slug": "minecraft",
     "status": "degraded",
-    "uptime": "30.67%",
-    "uptimeDay": "30.67%",
-    "uptimeWeek": "30.67%",
-    "uptimeMonth": "30.67%",
-    "uptimeYear": "30.67%",
+    "uptime": "30.25%",
+    "uptimeDay": "30.25%",
+    "uptimeWeek": "30.25%",
+    "uptimeMonth": "30.25%",
+    "uptimeYear": "30.25%",
     "time": 818,
     "timeDay": 818,
     "timeWeek": 818,
     "timeMonth": 818,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2022-03-20": 435
+      "2022-03-20": 443
     }
   }
 ]
