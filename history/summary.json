@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 182,
-    "timeWeek": 182,
-    "timeMonth": 182,
-    "timeYear": 182,
+    "time": 179,
+    "timeDay": 179,
+    "timeWeek": 179,
+    "timeMonth": 179,
+    "timeYear": 179,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 858,
-    "timeDay": 858,
-    "timeWeek": 858,
-    "timeMonth": 858,
-    "timeYear": 858,
+    "time": 809,
+    "timeDay": 809,
+    "timeWeek": 809,
+    "timeMonth": 809,
+    "timeYear": 809,
     "dailyMinutesDown": {}
   },
   {
@@ -46,31 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1006,
-    "timeDay": 1006,
-    "timeWeek": 1006,
-    "timeMonth": 1006,
-    "timeYear": 1006,
+    "time": 945,
+    "timeDay": 945,
+    "timeWeek": 945,
+    "timeMonth": 945,
+    "timeYear": 945,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "yeet test",
-    "url": "coopplayzz.github.io/dwdewf",
-    "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "yeet-test",
-    "status": "down",
-    "uptime": "97.81%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "97.81%",
-    "uptimeMonth": "97.81%",
-    "uptimeYear": "97.81%",
-    "time": 232,
-    "timeDay": 232,
-    "timeWeek": 232,
-    "timeMonth": 232,
-    "timeYear": 232,
-    "dailyMinutesDown": {
-      "2022-03-20": 0
-    }
   }
 ]
