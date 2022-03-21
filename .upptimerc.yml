@@ -19,6 +19,7 @@ status-website:
   baseUrl: /Webstatus-games
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Website Status
+  theme: dark
   introTitle: "**Websites Statuses** is the go to thing to see whats websites down and up"
   introMessage: This website is made with the (very very super big) help of [Upptime bot] (https://upptime.js.org/)
   navbar:
