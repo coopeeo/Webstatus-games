@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/fortnite.com",
     "slug": "fortnite",
     "status": "up",
-    "uptime": "98.87%",
+    "uptime": "98.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.96%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "98.87%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.88%",
     "time": 815,
     "timeDay": 908,
     "timeWeek": 849,
@@ -47,15 +47,15 @@
     "url": "https://www.minecraft.net",
     "icon": "https://favicons.githubusercontent.com/www.minecraft.net",
     "slug": "minecraft",
-    "status": "up",
-    "uptime": "77.83%",
-    "uptimeDay": "59.00%",
-    "uptimeWeek": "64.26%",
-    "uptimeMonth": "77.83%",
-    "uptimeYear": "77.83%",
+    "status": "degraded",
+    "uptime": "78.08%",
+    "uptimeDay": "61.35%",
+    "uptimeWeek": "64.51%",
+    "uptimeMonth": "78.08%",
+    "uptimeYear": "78.08%",
     "time": 986,
-    "timeDay": 945,
-    "timeWeek": 1048,
+    "timeDay": 938,
+    "timeWeek": 1050,
     "timeMonth": 986,
     "timeYear": 986,
     "dailyMinutesDown": {
@@ -66,7 +66,7 @@
       "2022-03-27": 503,
       "2022-03-26": 549,
       "2022-03-25": 488,
-      "2022-03-24": 413
+      "2022-03-24": 385
     }
   }
 ]
