@@ -49,14 +49,14 @@
     "url": "https://www.minecraft.net",
     "icon": "https://favicons.githubusercontent.com/www.minecraft.net",
     "slug": "minecraft",
-    "status": "up",
-    "uptime": "86.76%",
+    "status": "degraded",
+    "uptime": "86.87%",
     "uptimeDay": "58.20%",
     "uptimeWeek": "75.75%",
-    "uptimeMonth": "86.76%",
-    "uptimeYear": "86.76%",
+    "uptimeMonth": "86.87%",
+    "uptimeYear": "86.87%",
     "time": 977,
-    "timeDay": 947,
+    "timeDay": 954,
     "timeWeek": 967,
     "timeMonth": 977,
     "timeYear": 977,
@@ -71,7 +71,7 @@
       "2022-04-01": 226,
       "2022-03-31": 388,
       "2022-03-30": 620,
-      "2022-03-29": 107
+      "2022-03-29": 79
     }
   }
 ]
