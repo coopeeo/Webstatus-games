@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 97,
-    "timeWeek": 160,
+    "timeDay": 0,
+    "timeWeek": 171,
     "timeMonth": 174,
     "timeYear": 174,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "99.15%",
     "uptimeYear": "99.15%",
     "time": 811,
-    "timeDay": 389,
-    "timeWeek": 816,
+    "timeDay": 0,
+    "timeWeek": 833,
     "timeMonth": 811,
     "timeYear": 811,
     "dailyMinutesDown": {
@@ -50,17 +50,17 @@
     "url": "https://www.minecraft.net",
     "icon": "https://favicons.githubusercontent.com/www.minecraft.net",
     "slug": "minecraft",
-    "status": "degraded",
-    "uptime": "90.52%",
-    "uptimeDay": "67.89%",
-    "uptimeWeek": "72.94%",
-    "uptimeMonth": "90.52%",
-    "uptimeYear": "90.52%",
-    "time": 965,
-    "timeDay": 907,
+    "status": "up",
+    "uptime": "90.35%",
+    "uptimeDay": "67.90%",
+    "uptimeWeek": "72.95%",
+    "uptimeMonth": "90.35%",
+    "uptimeYear": "90.35%",
+    "time": 964,
+    "timeDay": 908,
     "timeWeek": 920,
-    "timeMonth": 965,
-    "timeYear": 965,
+    "timeMonth": 964,
+    "timeYear": 964,
     "dailyMinutesDown": {
       "2022-04-13": 462,
       "2022-04-12": 294,
@@ -70,7 +70,7 @@
       "2022-04-08": 431,
       "2022-04-07": 547,
       "2022-04-06": 341,
-      "2022-04-05": 344
+      "2022-04-05": 408
     }
   }
 ]
