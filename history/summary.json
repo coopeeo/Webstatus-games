@@ -52,15 +52,15 @@
     "url": "https://www.minecraft.net",
     "icon": "https://favicons.githubusercontent.com/www.minecraft.net",
     "slug": "minecraft",
-    "status": "up",
-    "uptime": "90.42%",
-    "uptimeDay": "56.54%",
-    "uptimeWeek": "71.02%",
-    "uptimeMonth": "90.42%",
-    "uptimeYear": "90.42%",
+    "status": "degraded",
+    "uptime": "90.62%",
+    "uptimeDay": "61.29%",
+    "uptimeWeek": "71.39%",
+    "uptimeMonth": "90.62%",
+    "uptimeYear": "90.62%",
     "time": 985,
-    "timeDay": 1593,
-    "timeWeek": 1020,
+    "timeDay": 1615,
+    "timeWeek": 1022,
     "timeMonth": 985,
     "timeYear": 985,
     "dailyMinutesDown": {
@@ -73,7 +73,7 @@
       "2022-04-10": 329,
       "2022-04-09": 188,
       "2022-04-08": 431,
-      "2022-04-07": 333
+      "2022-04-07": 266
     }
   }
 ]
