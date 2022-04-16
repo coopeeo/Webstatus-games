@@ -1,7 +1,7 @@
 url: https://www.minecraft.net
-status: up
+status: degraded
 code: 200
-responseTime: 729
-lastUpdated: 2022-04-16T08:47:05.294Z
+responseTime: 1182
+lastUpdated: 2022-04-16T09:12:16.185Z
 startTime: Sat Mar 19 2022 23:19:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
