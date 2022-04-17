@@ -4,19 +4,19 @@
     "url": "https://www.roblox.com",
     "icon": "https://favicons.githubusercontent.com/www.roblox.com",
     "slug": "roblox",
-    "status": "degraded",
-    "uptime": "99.82%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 402,
-    "timeDay": 1606,
-    "timeWeek": 1069,
-    "timeMonth": 402,
-    "timeYear": 402,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 398,
+    "timeDay": 1329,
+    "timeWeek": 1003,
+    "timeMonth": 398,
+    "timeYear": 398,
     "dailyMinutesDown": {
-      "2022-04-17": 0,
+      "2022-04-17": 9,
       "2022-04-16": 17,
       "2022-04-14": 55
     }
@@ -55,15 +55,15 @@
     "url": "https://www.minecraft.net",
     "icon": "https://favicons.githubusercontent.com/www.minecraft.net",
     "slug": "minecraft",
-    "status": "up",
-    "uptime": "91.15%",
+    "status": "degraded",
+    "uptime": "91.19%",
     "uptimeDay": "71.57%",
-    "uptimeWeek": "68.98%",
-    "uptimeMonth": "91.15%",
-    "uptimeYear": "91.15%",
+    "uptimeWeek": "69.06%",
+    "uptimeMonth": "91.19%",
+    "uptimeYear": "91.19%",
     "time": 984,
-    "timeDay": 976,
-    "timeWeek": 1013,
+    "timeDay": 981,
+    "timeWeek": 1014,
     "timeMonth": 984,
     "timeYear": 984,
     "dailyMinutesDown": {
@@ -76,7 +76,7 @@
       "2022-04-11": 475,
       "2022-04-10": 329,
       "2022-04-09": 188,
-      "2022-04-08": 165
+      "2022-04-08": 148
     }
   }
 ]
