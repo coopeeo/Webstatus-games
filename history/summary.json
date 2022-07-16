@@ -27,17 +27,17 @@
     "url": "https://fortnite.com",
     "icon": "https://favicons.githubusercontent.com/fortnite.com",
     "slug": "fortnite",
-    "status": "up",
-    "uptime": "98.79%",
-    "uptimeDay": "85.58%",
-    "uptimeWeek": "83.45%",
-    "uptimeMonth": "95.28%",
-    "uptimeYear": "98.79%",
-    "time": 974,
-    "timeDay": 1005,
+    "status": "degraded",
+    "uptime": "98.80%",
+    "uptimeDay": "85.57%",
+    "uptimeWeek": "83.53%",
+    "uptimeMonth": "95.31%",
+    "uptimeYear": "98.80%",
+    "time": 975,
+    "timeDay": 1035,
     "timeWeek": 997,
-    "timeMonth": 1012,
-    "timeYear": 974,
+    "timeMonth": 1013,
+    "timeYear": 975,
     "dailyMinutesDown": {
       "2022-07-16": 103,
       "2022-07-15": 270,
@@ -49,7 +49,7 @@
       "2022-07-09": 165,
       "2022-07-08": 122,
       "2022-07-07": 159,
-      "2022-07-06": 18
+      "2022-07-06": 7
     }
   },
   {
@@ -69,7 +69,7 @@
     "timeMonth": 374,
     "timeYear": 940,
     "dailyMinutesDown": {
-      "2022-07-16": 932,
+      "2022-07-16": 945,
       "2022-07-15": 1440,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
