@@ -1,7 +1,7 @@
 url: https://fortnite.com
-status: down
-code: 500
-responseTime: 521
-lastUpdated: 2022-08-14T05:23:07.243Z
+status: degraded
+code: 200
+responseTime: 1602
+lastUpdated: 2022-08-14T05:33:55.247Z
 startTime: Sat Mar 19 2022 23:19:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
