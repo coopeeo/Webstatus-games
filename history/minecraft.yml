@@ -1,7 +1,7 @@
 url: https://www.minecraft.net
-status: down
+status: degraded
 code: 403
-responseTime: 401
-lastUpdated: 2022-11-19T02:44:28.970Z
+responseTime: 1748
+lastUpdated: 2022-11-19T15:26:59.315Z
 startTime: Sat Mar 19 2022 23:19:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
