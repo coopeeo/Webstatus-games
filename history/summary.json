@@ -4,7 +4,7 @@
     "url": "https://www.roblox.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.roblox.com.ico",
     "slug": "roblox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 367,
     "timeYear": 294,
     "dailyMinutesDown": {
+      "2022-11-27": 0,
       "2022-11-19": 10,
       "2022-11-07": 10,
       "2022-09-28": 10,
@@ -40,7 +41,7 @@
     "uptimeYear": "99.42%",
     "time": 995,
     "timeDay": 1041,
-    "timeWeek": 1073,
+    "timeWeek": 1075,
     "timeMonth": 1033,
     "timeYear": 995,
     "dailyMinutesDown": {
@@ -70,7 +71,7 @@
     "timeMonth": 1042,
     "timeYear": 910,
     "dailyMinutesDown": {
-      "2022-11-27": 233,
+      "2022-11-27": 249,
       "2022-11-26": 1440,
       "2022-11-25": 1440,
       "2022-11-24": 1440,
