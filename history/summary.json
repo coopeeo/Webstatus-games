@@ -33,16 +33,16 @@
     "url": "https://fortnite.com",
     "icon": "https://icons.duckduckgo.com/ip3/fortnite.com.ico",
     "slug": "fortnite",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.45%",
-    "uptimeDay": "73.13%",
-    "uptimeWeek": "79.72%",
-    "uptimeMonth": "95.33%",
+    "uptimeDay": "73.64%",
+    "uptimeWeek": "79.81%",
+    "uptimeMonth": "95.35%",
     "uptimeYear": "99.45%",
     "time": 998,
-    "timeDay": 1063,
+    "timeDay": 1094,
     "timeWeek": 1076,
-    "timeMonth": 1039,
+    "timeMonth": 1040,
     "timeYear": 998,
     "dailyMinutesDown": {
       "2022-11-30": 327,
@@ -50,7 +50,7 @@
       "2022-11-28": 314,
       "2022-11-27": 324,
       "2022-11-26": 446,
-      "2022-11-25": 269
+      "2022-11-25": 260
     }
   },
   {
@@ -67,10 +67,10 @@
     "time": 922,
     "timeDay": 5061,
     "timeWeek": 1803,
-    "timeMonth": 1246,
+    "timeMonth": 1263,
     "timeYear": 922,
     "dailyMinutesDown": {
-      "2022-11-30": 1141,
+      "2022-11-30": 1167,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
