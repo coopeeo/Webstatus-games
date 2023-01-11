@@ -6,7 +6,7 @@
     "slug": "roblox",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.08%",
+    "uptimeDay": "99.44%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
@@ -35,16 +35,16 @@
     "url": "https://fortnite.com",
     "icon": "https://icons.duckduckgo.com/ip3/fortnite.com.ico",
     "slug": "fortnite",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.64%",
-    "uptimeDay": "86.93%",
+    "uptimeDay": "88.23%",
     "uptimeWeek": "87.87%",
-    "uptimeMonth": "96.50%",
+    "uptimeMonth": "96.53%",
     "uptimeYear": "99.64%",
     "time": 995,
-    "timeDay": 956,
-    "timeWeek": 966,
-    "timeMonth": 967,
+    "timeDay": 984,
+    "timeWeek": 969,
+    "timeMonth": 968,
     "timeYear": 995,
     "dailyMinutesDown": {
       "2023-01-11": 77,
@@ -57,7 +57,7 @@
       "2023-01-04": 105,
       "2023-01-03": 112,
       "2023-01-02": 79,
-      "2023-01-01": 88
+      "2023-01-01": 74
     }
   },
   {
@@ -77,7 +77,7 @@
     "timeMonth": 977,
     "timeYear": 923,
     "dailyMinutesDown": {
-      "2023-01-11": 463,
+      "2023-01-11": 539,
       "2023-01-10": 1440,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
