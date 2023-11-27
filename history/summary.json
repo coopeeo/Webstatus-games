@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 809,
-    "timeDay": 1186,
-    "timeWeek": 1160,
-    "timeMonth": 1182,
-    "timeYear": 958,
+    "time": 811,
+    "timeDay": 1143,
+    "timeWeek": 1146,
+    "timeMonth": 1185,
+    "timeYear": 961,
     "dailyMinutesDown": {
       "2023-10-22": 58,
       "2023-10-21": 75,
@@ -22,8 +22,7 @@
       "2023-07-25": 27,
       "2023-01-21": 8,
       "2023-01-10": 13,
-      "2023-01-04": 18,
-      "2022-11-27": 23
+      "2023-01-04": 18
     }
   },
   {
@@ -32,18 +31,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fortnite.com.ico",
     "slug": "fortnite",
     "status": "down",
-    "uptime": "49.88%",
+    "uptime": "49.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "15.41%",
+    "uptimeYear": "15.14%",
     "time": 869,
-    "timeDay": 155,
-    "timeWeek": 253,
-    "timeMonth": 264,
-    "timeYear": 851,
+    "timeDay": 98,
+    "timeWeek": 207,
+    "timeMonth": 254,
+    "timeYear": 847,
     "dailyMinutesDown": {
-      "2023-11-26": 70,
+      "2023-11-27": 66,
+      "2023-11-26": 1440,
       "2023-11-25": 1440,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
@@ -370,18 +370,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.minecraft.net.ico",
     "slug": "minecraft",
     "status": "down",
-    "uptime": "9.80%",
+    "uptime": "9.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 663,
+    "time": 664,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 608,
+    "timeYear": 600,
     "dailyMinutesDown": {
-      "2023-11-26": 70,
+      "2023-11-27": 66,
+      "2023-11-26": 1440,
       "2023-11-25": 1440,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
@@ -744,8 +745,7 @@
       "2022-12-01": 1440,
       "2022-11-30": 1440,
       "2022-11-29": 1440,
-      "2022-11-28": 1440,
-      "2022-11-27": 1440
+      "2022-11-28": 1440
     }
   }
 ]
